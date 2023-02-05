@@ -2,7 +2,7 @@ body {
     font-family: "Comic Sans MS", "Comic Sans", cursive;
     background-color: #FBF2CF;
     text-align: center;
-    color: #FA7070;
+    color: salmon;
     padding-top: 45px;
 }
 
@@ -23,4 +23,14 @@ table {
 td {
     padding: 5px; 
     border: 1px solid; 
+}
+
+button {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-decoration: none;
+    background-color: #856C8B;
+    color: #f5f5dc; 
+    border-radius: 25px;
+    border: none; 
+    padding: 10px; 
 }

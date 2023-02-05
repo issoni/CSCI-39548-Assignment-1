@@ -1,8 +1,9 @@
 body {
-    font-family: "Comic Sans MS, Comic Sans, cursive"; 
+    font-family: "Comic Sans MS", "Comic Sans", cursive; 
     background-color: #B5D5C5;
     text-align: center; 
     color: #567189;
+    padding-top: 50px;
 }
 
 a {

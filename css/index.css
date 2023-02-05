@@ -23,14 +23,6 @@ img.m {
     text-align: center; 
 }
 
-img.b {
-    border-radius: 30px; 
-    padding: 20px; 
-    width: 250px; 
-    height: 250px; 
-    margin: 25px 50px 75px 100px;
-}
-
 .homepage-images {
     display: flex;
     justify-content: center; 

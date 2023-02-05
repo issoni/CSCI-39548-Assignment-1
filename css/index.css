@@ -3,7 +3,7 @@ body {
     background-color: #B5D5C5;
     text-align: center; 
     color: #567189;
-    padding-top: 50px;
+    padding-top: 100px;
 }
 
 a {
@@ -12,5 +12,26 @@ a {
     background-color: #B08BBB;
     padding: 10px; 
     border-radius: 25px; 
-    margin: 20px; 
+    margin: 110px; 
+}
+
+img.m {
+    border-radius: 30px; 
+    padding: 20px; 
+    width: 250px; 
+    height: 250px; 
+    text-align: center; 
+}
+
+img.b {
+    border-radius: 30px; 
+    padding: 20px; 
+    width: 250px; 
+    height: 250px; 
+    margin: 25px 50px 75px 100px;
+}
+
+.homepage-images {
+    display: flex;
+    justify-content: center; 
 }

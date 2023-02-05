@@ -1,0 +1,14 @@
+body {
+    font-family: "Comic Sans MS, Comic Sans, cursive"; 
+    background-color: #B5D5C5;
+    text-align: center; 
+}
+
+a {
+    text-decoration: none;
+    color: #f5f5dc;
+    background-color: #B08BBB;
+    padding: 10px; 
+    border-radius: 25px; 
+    margin: 20px; 
+}

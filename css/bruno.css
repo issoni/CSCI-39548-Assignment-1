@@ -3,7 +3,7 @@ body {
     background-color: #FBF2CF;
     text-align: center;
     color: salmon;
-    padding-top: 45px;
+    padding-top: 30px;
 }
 
 a {
@@ -33,4 +33,5 @@ button {
     border-radius: 25px;
     border: none; 
     padding: 10px; 
+    font-size: 16px; 
 }
